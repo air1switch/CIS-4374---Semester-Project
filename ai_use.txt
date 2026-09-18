@@ -1,0 +1,22 @@
+1. What tool/model was used?
+    Qwen3.6-35B-A3B
+    Gemma-4-26b-a4b-qat
+    LM Studio
+    -ALL OFFLINE-
+
+2. What it was used for:
+    - Take the initially created WBS and double check it covers all the necessary requriements and what might've been missed
+    - Map possible dependencies between WBS items
+    - Draft possible milestones aligned with Chapter 1’s project lifecycle phases and Chapter 3’s milestone definition
+
+3. Prompts Used:
+    - "Take this current WBS and find missing points that need to be added for the project to be completed."
+    - "With the checked and rechecked WBS, list possible dependencies between the items."
+    - "Using the WBS and these drafted dates of each subtask."
+    + a couple "Add up these dates"/"Check this table for formatting and accuracy", general clarity ones
+
+4. What you kept vs. what you changed;
+    - WBS: Kept all original component names, and scopes, added some previously missed tasks that would be required to finish the project. Formatted to better follow the ≥3-level deliverable hierarchy.
+    - Changed some start/end dates to better align with the weeks, added more explicit FS/SS dependency labels, but will add on in later weeks to this.
+    - All WBS and finalized (for this week) dates the same, but added the given names for sections of the projects.
+
