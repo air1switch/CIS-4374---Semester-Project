@@ -5,14 +5,13 @@
     -ALL OFFLINE-
 
 2. What it was used for:
-    - Transferring the WBS and FRQs into formattable backlog items and clarity checking.
+    - Transferring the WBS and FRQs into draft technical, schedule, financial, and people risks.
 
 3. Prompts Used:
-    - "With the WBS and FRQs in mind, list any backlog items that may have been missed in the draft."
-    - "For each backlog item, list the possible sprint they would fall under accounting for their category and priority listed in the SDS."
-    - "Format the drafted backlog into a format uploadable to Trello."
+    - "With the WBS and FRQs in mind, what other possible technical, schedule, financial, or people risks can be expected?"
+    - "With the created risks, use this format of the first few entries in the risk register to format the rest of them."
     + a couple "Add up these dates"/"Check this table for formatting and accuracy", general clarity ones
 
 4. What you kept vs. what you changed;
-    - Kept most of the items already created such as the WBS and FRQs and mainly switched the formatting around and clarity checks for the sprints. Reorganized sprint structures.
+    - Most risks were already evident or created, mostly to format in different ways for the differing sections.
 
