@@ -5,13 +5,13 @@
     -ALL OFFLINE-
 
 2. What it was used for:
-    - Transferring the WBS and FRQs into draft technical, schedule, financial, and people risks.
+    - Organizing existing project information into a stakeholder analysis, Power–Interest Grid, project charter, and team charter.
 
 3. Prompts Used:
-    - "With the WBS and FRQs in mind, what other possible technical, schedule, financial, or people risks can be expected?"
-    - "With the created risks, use this format of the first few entries in the risk register to format the rest of them."
-    + a couple "Add up these dates"/"Check this table for formatting and accuracy", general clarity ones
+    - "Create a stakeholder analysis and Power–Interest Grid using the current project documentation."
+    - "Create a concise project charter and team charter from the existing project information."
+    + a couple "Add up these dates"/"Check this table for formatting and accuracy", general clarity ones.
 
 4. What you kept vs. what you changed;
-    - Most risks were already evident or created, mostly to format in different ways for the differing sections.
+    - Stakeholders, roles, objectives, constraints, and communication methods were already in the project sheet so mainly updated to a different visual format.
 
