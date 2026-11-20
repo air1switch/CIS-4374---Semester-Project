@@ -5,13 +5,14 @@
     -ALL OFFLINE-
 
 2. What it was used for:
-    - Organizing existing project information into a stakeholder analysis, Power–Interest Grid, project charter, and team charter.
+    - Expanding and reviewing existing project documentation, drafting additional use cases from the established functional requirements, WBS, backlog, and project scope, assisting with the post-project maintenance and scaling proposal included in the project closure report, general formatting, consistency checks, and organization of project sections.
 
 3. Prompts Used:
-    - "Create a stakeholder analysis and Power–Interest Grid using the current project documentation."
-    - "Create a concise project charter and team charter from the existing project information."
+    - "Create possible use cases based on the existing functional requirements, WBS, and backlog."
+    - "Review the project document and identify missing sections or areas that need expansion."
+    - "Draft a maintenance and scaling proposal using the existing Smart Parking Platform documentation."
     + a couple "Add up these dates"/"Check this table for formatting and accuracy", general clarity ones.
 
 4. What you kept vs. what you changed;
-    - Stakeholders, roles, objectives, constraints, and communication methods were already in the project sheet so mainly updated to a different visual format.
+    - Most project information already existed in the document, AI was primarily used to organize, expand, and format use cases, maintenance planning, and project documentation sections.
 
